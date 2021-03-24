@@ -2,7 +2,7 @@
 # ***_Air Monitoring Device_***
 
 
-<img src="https://github.com/Godson-Thomas/A.C.M.S_Automated-Cylinder-Monitoring-System_/blob/master/FISAT.jpg" width="800">
+<img src="https://github.com/Godson-Thomas/IOT-Based-Air.Monitoring.Device/blob/master/Prototype/Prototype.jpg" width="800">
 <br>
 
 
@@ -27,7 +27,7 @@ _Air monitoring device can be used inside kitchen to detect the presence of harm
 
 ## ***_Circuit Diagram :_***
 
-<img src="https://github.com/Godson-Thomas/A.C.M.S/blob/master/Circuit/ACMS_1_img.jpg" width="550"><br><br>
+<img src="https://github.com/Godson-Thomas/IOT-Based-Air.Monitoring.Device/blob/master/Circuit%20Design/Circuit.JPG" width="550"><br><br>
 
 
 
@@ -35,14 +35,16 @@ _Air monitoring device can be used inside kitchen to detect the presence of harm
 
 
 ## ***_Simulation : Proteus_***
-<img src="https://github.com/Godson-Thomas/A.C.M.S-Automated-Cylinder-Monitoring-System-/blob/master/Simulation/UNO_Nodemcu/UNO_NodeMCU_1.JPG" width="550"><br><br>
+<img src="https://github.com/Godson-Thomas/IOT-Based-Air.Monitoring.Device/blob/master/Simulation/Simulated_Images/Final_Simulation.JPG" width="550"><br><br>
 
 
 ## ***Protoype***
-<img src="https://github.com/Godson-Thomas/A.C.M.S-Automated-Cylinder-Monitoring-System-/blob/master/Simulation/UNO_Nodemcu/UNO_NodeMCU_1.JPG" width="550"><br><br>
+<img src="https://github.com/Godson-Thomas/IOT-Based-Air.Monitoring.Device/blob/master/Prototype/Prototype.jpg" width="550"><br><br>
+<img src="https://github.com/Godson-Thomas/IOT-Based-Air.Monitoring.Device/blob/master/Prototype/AMD%20Module.jpg" width="550"><br><br>
+<img src="https://github.com/Godson-Thomas/IOT-Based-Air.Monitoring.Device/blob/master/Prototype/LCD.jpg" width="550"><br><br>
 
 ## ***ThingSpeak Server***
-<img src="https://github.com/Godson-Thomas/A.C.M.S-Automated-Cylinder-Monitoring-System-/blob/master/Simulation/UNO_Nodemcu/UNO_NodeMCU_1.JPG" width="550"><br><br>
+<img src="https://github.com/Godson-Thomas/IOT-Based-Air.Monitoring.Device/blob/master/Prototype/ThingSpeak_Database.JPG" width="550"><br><br>
 
 ## ***_Video  :_***  
-[click here](https://www.youtube.com/watch?v=7IC8JSlXGVY)
+[click here](https://drive.google.com/drive/folders/1k4LPax72bqPyl4JnaYloMzBaLJPctYqF?usp=sharing)
