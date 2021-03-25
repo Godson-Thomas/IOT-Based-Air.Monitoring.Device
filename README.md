@@ -39,7 +39,7 @@ _Air monitoring device can be used inside kitchen to detect the presence of harm
 <img src="https://github.com/Godson-Thomas/IOT-Based-Air.Monitoring.Device/blob/master/Simulation/Simulated_Images/Final_Simulation.JPG" width="700"><br><br>
 
 
-## ***Protoype***
+## ***Prototype***
 <img src="https://github.com/Godson-Thomas/IOT-Based-Air.Monitoring.Device/blob/master/Prototype/Prototype.jpg" width="550"><br><br>
 <img src="https://github.com/Godson-Thomas/IOT-Based-Air.Monitoring.Device/blob/master/Prototype/AMD%20Module.jpg" width="550"><br><br>
 <img src="https://github.com/Godson-Thomas/IOT-Based-Air.Monitoring.Device/blob/master/Prototype/LCD.jpg" width="550"><br><br>
