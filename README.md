@@ -45,7 +45,7 @@ _Air monitoring device can be used inside kitchen to detect the presence of harm
 <img src="https://github.com/Godson-Thomas/IOT-Based-Air.Monitoring.Device/blob/master/Prototype/LCD.jpg" width="550"><br><br>
 
 ## ***ThingSpeak Server***
-<img src="https://github.com/Godson-Thomas/IOT-Based-Air.Monitoring.Device/blob/master/Prototype/ThingSpeak_Database.JPG" width="550"><br><br>
+<img src="https://github.com/Godson-Thomas/IOT-Based-Air.Monitoring.Device/blob/master/Prototype/ThingSpeak_Database.JPG" width="700"><br><br>
 
 ## ***_Video  :_***  
 [click here](https://drive.google.com/drive/folders/1k4LPax72bqPyl4JnaYloMzBaLJPctYqF?usp=sharing)
